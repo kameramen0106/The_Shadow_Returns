@@ -1,19 +1,17 @@
-The Shadow Returns - Art Licenses
-=================================
+Art Licenses
+============
 
 Included content that is not listed below is provided under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 or (at your option) any later version.
 
 A copy of the GNU General Public License is provided in COPYING.
 
 
-Project-Ethea/After the Storm Art (CC BY-NC-ND 4.0)
----------------------------------------------------
+After the Storm Art (CC BY-NC-ND 4.0)
+-------------------------------------
 
 Copyright (C) 2006 - 2024 by Iris Morelle <shadowm@wesnoth.org>
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-nd/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
-Elynia unit sprites:
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-nd/4.0> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
  * images/units/elves-wood/elynia-attack-melee-1.png
  * images/units/elves-wood/elynia-attack-melee-2.png
@@ -27,53 +25,25 @@ Elynia unit sprites:
  * images/units/elves-wood/elynia-defense.png
  * images/units/elves-wood/elynia.png
 
-Demon unit sprites:
 
- * images/units/monsters/lumeril-glyph-break-1.png
- * images/units/monsters/lumeril-glyph-break-2.png
- * images/units/monsters/lumeril-glyph-break-3.png
- * images/units/monsters/lumeril-glyph-break-4.png
- * images/units/monsters/lumeril-glyph-break-5.png
- * images/units/monsters/lumeril-glyph.png
-
-
-Project-Ethea/After the Storm Art (CC BY-SA 4.0)
-------------------------------------------------
+Naia Art (CC BY-SA 4.0)
+-----------------------
 
 Copyright (C) 2006 - 2024 by Iris Morelle <shadowm@wesnoth.org>
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
- * images/units/faeries/fallen.png
-
-
-Project-Ethea/Naia Art (CC BY-SA 4.0)
--------------------------------------
-
-Copyright (C) 2006 - 2024 by Iris Morelle <shadowm@wesnoth.org>
-
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
  * images/items/crystal-glyph-message.png
- * images/items/crystal-glyph-powerup.png
  * images/items/crystal-glyph.png
 
 
 Non-Copyrighted Assets (CC0)
 ----------------------------
 
-To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work. <https://creativecommons.org/publicdomain/zero/1.0/>
-
-Created by KameRamen, base photo by Sagui Andrea from <https://www.pexels.com/photo/snow-covered-mountain-during-sunrise-61883/>:
+To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work. <https://creativecommons.org/publicdomain/zero/1.0>
 
  * images/story/erzen.webp
-
-Created by KameRamen, base photo by Ray Bilcliff from <https://www.pexels.com/photo/a-long-exposure-photograph-of-waves-crashing-on-rocks-27529223/>:
-
  * images/story/shore.webp
-
-Created by Grappe from <https://grappe.itch.io/pixelsnowing/>:
-
  * images/terrain/snow/SnowSlowR_0.png
  * images/terrain/snow/SnowSlowR_1.png
  * images/terrain/snow/SnowSlowR_2.png
