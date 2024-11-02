@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-02 17:45 UTC\n"
+"POT-Creation-Date: 2024-11-02 19:26 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,25 +49,37 @@ msgid "The Shadow Returns"
 msgstr ""
 
 #: The_Shadow_Returns/_main.cfg:34
-msgid "(Expert level, 7 scenarios of 9 completed.)"
-msgstr ""
-
-#: The_Shadow_Returns/_main.cfg:36
 msgid "Version:"
 msgstr ""
 
-#: The_Shadow_Returns/_main.cfg:36
+#: The_Shadow_Returns/_main.cfg:34
 msgid "requires Wesnoth 1.18.0 or later"
 msgstr ""
 
 #. [campaign]
-#: The_Shadow_Returns/_main.cfg:41
+#: The_Shadow_Returns/_main.cfg:39
 msgid "Episode I: Escape the Living"
 msgstr ""
 
 #. [campaign]
-#: The_Shadow_Returns/_main.cfg:41
-msgid "This is the story of an age when the glory of Wesnoth had become but a memory of days long past. The fugitive necromancer Gwiti Ha’atel is determined to master the undead hordes and exact his revenge upon the living. His dark journey unleashes waves of power that gradually engulf all of Irdya..."
+#: The_Shadow_Returns/_main.cfg:39
+msgid ""
+"This is the story of an age when the glory of Wesnoth had become but a memory of days long past. The fugitive necromancer Gwiti Ha’atel is determined to master the undead hordes and exact his revenge upon the living. His dark journey unleashes waves of power that gradually engulf all of Irdya...\n"
+"\n"
+"(Expert level, 7 scenarios of 9 completed.)"
+msgstr ""
+
+#. [campaign]
+#: The_Shadow_Returns/_main.cfg:50
+msgid "Episode II: The Death March"
+msgstr ""
+
+#. [campaign]
+#: The_Shadow_Returns/_main.cfg:50
+msgid ""
+"At last, Gwiti’s evil forces launch their assault against Wesnoth. As the mortals under his command plunge the kingdom and its people into darkness, they turn to their final hope: the elven enchantress Elynia. Thus begins the ultimate confrontation between light and darkness.\n"
+"\n"
+"(Expert level, 0 scenarios of 9 completed.)"
 msgstr ""
 
 #. [about]
@@ -253,7 +265,7 @@ msgid "The time has come at last? Long have I yearned to hear your voice again."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:151
+#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:147
 msgid "<i><b>Here and now, the revival begins.</b></i>"
 msgstr ""
 
@@ -1409,7 +1421,7 @@ msgstr ""
 
 #. [part]
 #: The_Shadow_Returns/episode1/storytxt.cfg:21
-msgid "This tide of warfare now surged toward the northern stronghold of the Stone of Erzen."
+msgid "One such battle took place near the Wesnothians outpost at the Stone of Erzen, where two brother-mages were preparing to perform a ritual that could potentially turn the tide of the war in their favor..."
 msgstr ""
 
 #. [part]
