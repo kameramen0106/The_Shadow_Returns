@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-02 17:45 UTC\n"
-"PO-Revision-Date: 2024-11-03 02:56+0900\n"
+"POT-Creation-Date: 2024-11-02 19:26 UTC\n"
+"PO-Revision-Date: 2024-11-03 04:34+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -50,34 +50,55 @@ msgid "The Shadow Returns"
 msgstr "暗影の帰還"
 
 #: The_Shadow_Returns/_main.cfg:34
-msgid "(Expert level, 7 scenarios of 9 completed.)"
-msgstr "（達人レベル、9 シナリオ中 7 シナリオ完了）"
-
-#: The_Shadow_Returns/_main.cfg:36
 msgid "Version:"
 msgstr "バージョン:"
 
-#: The_Shadow_Returns/_main.cfg:36
+#: The_Shadow_Returns/_main.cfg:34
 msgid "requires Wesnoth 1.18.0 or later"
 msgstr "Wesnoth 1.18.0 以降が必要"
 
 #. [campaign]
-#: The_Shadow_Returns/_main.cfg:41
+#: The_Shadow_Returns/_main.cfg:39
 msgid "Episode I: Escape the Living"
 msgstr "エピソード I：生からの逃走"
 
 #. [campaign]
-#: The_Shadow_Returns/_main.cfg:41
+#: The_Shadow_Returns/_main.cfg:39
 msgid ""
 "This is the story of an age when the glory of Wesnoth had become but a "
 "memory of days long past. The fugitive necromancer Gwiti Ha’atel is "
 "determined to master the undead hordes and exact his revenge upon the "
 "living. His dark journey unleashes waves of power that gradually engulf all "
-"of Irdya..."
+"of Irdya...\n"
+"\n"
+"(Expert level, 7 scenarios of 9 completed.)"
 msgstr ""
 "Wesnoth の栄光が遠い追憶の中に消え去った時代の物語。逃亡した死霊術師 Gwiti "
 "Ha’atel は、アンデッドの大軍団を支配し、生ける者達に復讐する事を決意した。彼"
-"の暗い旅筋は、徐々に Irdya 全てを飲み込む力の波を解き放つ......"
+"の暗い旅筋は、徐々に Irdya 全てを飲み込む力の波を解き放つ......\n"
+"\n"
+"（達人レベル、9 シナリオ中 7 シナリオ完了）"
+
+#. [campaign]
+#: The_Shadow_Returns/_main.cfg:50
+msgid "Episode II: The Death March"
+msgstr "エピソード II：死の大行軍"
+
+#. [campaign]
+#: The_Shadow_Returns/_main.cfg:50
+msgid ""
+"At last, Gwiti’s evil forces launch their assault against Wesnoth. As the "
+"mortals under his command plunge the kingdom and its people into darkness, "
+"they turn to their final hope: the elven enchantress Elynia. Thus begins the "
+"ultimate confrontation between light and darkness.\n"
+"\n"
+"(Expert level, 0 scenarios of 9 completed.)"
+msgstr ""
+"遂に Gwiti の邪悪な勢力が Wesnoth への攻撃を開始した。Gwiti の配下が王国のそ"
+"の人々を闇へ陥れる中で、彼らは最後の望みをエルフの魔法使い Elynia へと託"
+"す...... こうして、光と闇の最終的な対決が幕を開けるのであった。\n"
+"\n"
+"（達人レベル、9 シナリオ中 0 シナリオ完了）"
 
 #. [about]
 #: The_Shadow_Returns/about.cfg:4
@@ -122,7 +143,7 @@ msgstr "最初の戦いでオークの魂を乗っ取れ。"
 #. [achievement]: id=tsr_bone_march
 #: The_Shadow_Returns/achievements.cfg:14
 msgid "Bone March"
-msgstr "骨の大行軍"
+msgstr "骨の行進"
 
 #. [achievement]: id=tsr_bone_march
 #: The_Shadow_Returns/achievements.cfg:15
@@ -278,7 +299,7 @@ msgstr ""
 "長きに渡って。"
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:151
+#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:147
 msgid "<i><b>Here and now, the revival begins.</b></i>"
 msgstr "<i><b>今ここにて始る。今こそ復活を。</b></i>"
 
@@ -1654,9 +1675,13 @@ msgstr ""
 #. [part]
 #: The_Shadow_Returns/episode1/storytxt.cfg:21
 msgid ""
-"This tide of warfare now surged toward the northern stronghold of the Stone "
-"of Erzen."
-msgstr "この戦いの波は今や、Erzen の石と呼ばれる北方の要塞へと押し寄せていた。"
+"One such battle took place near the Wesnothians outpost at the Stone of "
+"Erzen, where two brother-mages were preparing to perform a ritual that could "
+"potentially turn the tide of the war in their favor..."
+msgstr ""
+"そんな戦いの一角が、Erzen の石のある Wesnoth 軍の前哨基地近くで起こった。そこ"
+"では 2 人の魔術師の兄弟が、戦局を自分達に有利に動かす可能性を秘めたある儀式の"
+"準備を進めていた......"
 
 #. [part]
 #: The_Shadow_Returns/episode1/storytxt.cfg:30
@@ -1867,8 +1892,8 @@ msgstr ""
 "暗黒への堕落を通じて、Ha’atel は死すべき者には禁じられた力を手に入れた。しか"
 "しそれには恐ろしい代償が伴っていた。彼が魂を捧げた不死者たちが、今や着実に彼"
 "の肉体を蝕んでいるのだ。暗き時の潮が絶え間なく流れる中、彼は自らが支配する者 "
-"——不死の真なる存在、息あるモノ全てにとっての忌まわしき存在—— へと着実に前進す"
-"るだろう。"
+"—— 不死の真なる存在、息あるモノ全てにとっての忌まわしき存在 —— へと着実に前進"
+"するだろう。"
 
 #. [unit_type]: id=Demilich, race=undead
 #: The_Shadow_Returns/units/undead/Demilich.cfg:4
@@ -1909,9 +1934,9 @@ msgid ""
 msgstr ""
 "影なす巡礼の極みにおいて、Ha’atel は長きに渡って己を包み込んだ闇への最後の犠"
 "牲を捧げ、不死性という領域へと足を踏み入れた。その力の頂点において、彼は死す"
-"べき肉体を超越し、リッチ ——人の恐怖の具現化—— となった。この変容において、彼"
-"は二度と戻ることのできぬ境界を越えたのだ。そして、不死と無限の力という冷たき"
-"慰めは、その追求の中で失った全てに対する慰藉となるだろう。"
+"べき肉体を超越し、リッチ —— 人の恐怖の具現化 —— となった。この変容において、"
+"彼は二度と戻ることのできぬ境界を越えたのだ。そして、不死と無限の力という冷た"
+"き慰めは、その追求の中で失った全てに対する慰藉となるだろう。"
 
 #. [unit_type]: id=Initiate, race=human
 #: The_Shadow_Returns/units/undead/Initiate.cfg:4
@@ -2047,21 +2072,20 @@ msgstr "金貨 $temp_gold_retrieval_amount 枚を回収しました。"
 msgid "male^Mysterious Voice"
 msgstr "神秘的な声"
 
+#~ msgid "(Expert level, 7 scenarios of 9 completed.)"
+#~ msgstr "（達人レベル、9 シナリオ中 7 シナリオ完了）"
+
+#~ msgid ""
+#~ "This tide of warfare now surged toward the northern stronghold of the "
+#~ "Stone of Erzen."
+#~ msgstr ""
+#~ "この戦いの波は今や、Erzen の石と呼ばれる北方の要塞へと押し寄せていた。"
+
 #~ msgid "Episode I"
 #~ msgstr "エピソード I"
 
 #~ msgid "Episode II"
 #~ msgstr "エピソード II"
-
-#~ msgid ""
-#~ "At last, Gwiti’s evil forces launch their assault against Wesnoth. As his "
-#~ "mortal servants plunge the kingdom and its people into darkness, they "
-#~ "turn to their final hope: the elven enchantress Elynia. Thus begins the "
-#~ "ultimate confrontation between light and darkness."
-#~ msgstr ""
-#~ "遂にグウィティの邪悪な勢力がウェスノスへの攻撃を開始した。グウィティの配下"
-#~ "が王国のその人々を闇へ陥れる中で、彼らは最後の望みをエルフの魔法使いエリニ"
-#~ "アへと託す...... こうして、光と闇の最終的な対決が幕を開けるのであった。"
 
 #~ msgid "Crystal Glyph"
 #~ msgstr "氷彫刻"
