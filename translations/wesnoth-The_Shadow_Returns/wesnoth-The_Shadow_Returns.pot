@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-02 19:26 UTC\n"
+"POT-Creation-Date: 2024-11-05 05:27 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,59 +10,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: The_Shadow_Returns/_main.cfg:23
+#: The_Shadow_Returns/_main.cfg:19
 msgid "TSR"
 msgstr ""
 
-#: The_Shadow_Returns/_main.cfg:26
+#: The_Shadow_Returns/_main.cfg:20
 msgid "Seeker"
 msgstr ""
 
-#: The_Shadow_Returns/_main.cfg:26
+#: The_Shadow_Returns/_main.cfg:20
 msgid "Easy"
 msgstr ""
 
-#: The_Shadow_Returns/_main.cfg:27
+#: The_Shadow_Returns/_main.cfg:21
 msgid "Walker"
 msgstr ""
 
-#: The_Shadow_Returns/_main.cfg:27
+#: The_Shadow_Returns/_main.cfg:21
 msgid "Normal"
 msgstr ""
 
-#: The_Shadow_Returns/_main.cfg:28
+#: The_Shadow_Returns/_main.cfg:22
 msgid "Master"
 msgstr ""
 
-#: The_Shadow_Returns/_main.cfg:28
+#: The_Shadow_Returns/_main.cfg:22
 msgid "Hard"
 msgstr ""
 
-#: The_Shadow_Returns/_main.cfg:29
-msgid "To be continued..."
-msgstr ""
-
 #. [achievement_group]
-#: The_Shadow_Returns/_main.cfg:30
+#: The_Shadow_Returns/_main.cfg:23
 #: The_Shadow_Returns/achievements.cfg:4
 msgid "The Shadow Returns"
 msgstr ""
 
-#: The_Shadow_Returns/_main.cfg:34
-msgid "Version:"
-msgstr ""
-
-#: The_Shadow_Returns/_main.cfg:34
-msgid "requires Wesnoth 1.18.0 or later"
-msgstr ""
-
 #. [campaign]
-#: The_Shadow_Returns/_main.cfg:39
+#: The_Shadow_Returns/_main.cfg:30
 msgid "Episode I: Escape the Living"
 msgstr ""
 
 #. [campaign]
-#: The_Shadow_Returns/_main.cfg:39
+#: The_Shadow_Returns/_main.cfg:30
 msgid ""
 "This is the story of an age when the glory of Wesnoth had become but a memory of days long past. The fugitive necromancer Gwiti Ha’atel is determined to master the undead hordes and exact his revenge upon the living. His dark journey unleashes waves of power that gradually engulf all of Irdya...\n"
 "\n"
@@ -70,12 +58,12 @@ msgid ""
 msgstr ""
 
 #. [campaign]
-#: The_Shadow_Returns/_main.cfg:50
+#: The_Shadow_Returns/_main.cfg:41
 msgid "Episode II: The Death March"
 msgstr ""
 
 #. [campaign]
-#: The_Shadow_Returns/_main.cfg:50
+#: The_Shadow_Returns/_main.cfg:41
 msgid ""
 "At last, Gwiti’s evil forces launch their assault against Wesnoth. As the mortals under his command plunge the kingdom and its people into darkness, they turn to their final hope: the elven enchantress Elynia. Thus begins the ultimate confrontation between light and darkness.\n"
 "\n"
@@ -98,17 +86,17 @@ msgid "Graphics"
 msgstr ""
 
 #. [about]
-#: The_Shadow_Returns/about.cfg:43
+#: The_Shadow_Returns/about.cfg:42
 msgid "Music"
 msgstr ""
 
 #. [about]
-#: The_Shadow_Returns/about.cfg:58
+#: The_Shadow_Returns/about.cfg:57
 msgid "Alpha Playtester"
 msgstr ""
 
 #. [about]
-#: The_Shadow_Returns/about.cfg:65
+#: The_Shadow_Returns/about.cfg:63
 msgid "Additional thanks to"
 msgstr ""
 
@@ -132,51 +120,6 @@ msgstr ""
 msgid "Survive all the revenants in the dungeon."
 msgstr ""
 
-#. [objective]: condition=lose
-#: The_Shadow_Returns/episode1/deaths.cfg:6
-msgid "Death of Gwiti Ha’atel"
-msgstr ""
-
-#. [objective]: condition=lose
-#: The_Shadow_Returns/episode1/deaths.cfg:16
-msgid "Destruction of Gwiti Ha’atel"
-msgstr ""
-
-#. [objective]: condition=lose
-#: The_Shadow_Returns/episode1/deaths.cfg:26
-msgid "Death of Arkal-Thil"
-msgstr ""
-
-#. [objective]: condition=lose
-#: The_Shadow_Returns/episode1/deaths.cfg:36
-msgid "Destruction of Arkal-Thil"
-msgstr ""
-
-#. [objective]: condition=lose
-#: The_Shadow_Returns/episode1/deaths.cfg:46
-msgid "Death of Tanar"
-msgstr ""
-
-#. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/deaths.cfg:64
-msgid "What? This cannot be my end! Noooo!"
-msgstr ""
-
-#. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/deaths.cfg:78
-msgid "No! No! Noooo! The end comes... I feel the shadows reaching for my soul..."
-msgstr ""
-
-#. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/deaths.cfg:91
-msgid "I feel the darkness pulling me closer..."
-msgstr ""
-
-#. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/deaths.cfg:104
-msgid "You swore you would protect me!"
-msgstr ""
-
 #. [scenario]: id=00_Overture
 #: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:5
 msgid "Overture"
@@ -189,13 +132,13 @@ msgstr ""
 #: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:18
 #: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:59
 #: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:65
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:49
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:44
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:56
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:99
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:52
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:37
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:40
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:73
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:51
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:55
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:98
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:58
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:38
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:41
 msgid "Gwiti Ha’atel"
 msgstr ""
 
@@ -203,13 +146,13 @@ msgstr ""
 #. [side]: type=Mage, id=Gwiti Ha'atel
 #. [side]: type=Initiate, id=Gwiti Ha'atel
 #: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:26
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:59
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:53
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:63
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:106
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:59
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:44
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:48
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:83
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:59
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:62
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:105
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:65
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:45
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:49
 msgid "team_name^Gwiti"
 msgstr ""
 
@@ -234,38 +177,38 @@ msgid "In the end, the weight of loss shall grant you an eternity of torment... 
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:72
+#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:74
 msgid "Gwiti — your destruction is not yet at hand."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:102
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:229
+#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:104
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:234
 msgid "..."
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:106
+#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:108
 msgid "Awaken."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:116
+#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:118
 msgid "Do I... still exist?"
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:119
+#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:121
 msgid "The final ritual remains incomplete. The dark powers must be unleashed."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:123
+#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:125
 msgid "The time has come at last? Long have I yearned to hear your voice again."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:147
+#: The_Shadow_Returns/episode1/scenarios/00_Overture.cfg:149
 msgid "<i><b>Here and now, the revival begins.</b></i>"
 msgstr ""
 
@@ -275,158 +218,200 @@ msgid "Double Betrayal"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:18
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:28
 msgid "Defeat the orcish leader"
 msgstr ""
 
+#. [objective]: condition=win
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:44
+msgid "Survive until turns run out"
+msgstr ""
+
 #. [objective]: condition=lose
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:23
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:49
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:442
 msgid "Death of Nati Ha’atel"
 msgstr ""
 
 #. [note]
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:34
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:379
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:58
 msgid "<b>No unit carried over to the next scenario.</b>"
 msgstr ""
 
 #. [side]: type=Mage, id=Nati Ha'atel
 #. [side]: type=Deathmaster, id=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:67
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:71
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:91
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:70
 msgid "Nati Ha’atel"
 msgstr ""
 
 #. [side]: type=Mage, id=Nati Ha'atel
 #. [side]: type=Deathmaster, id=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:76
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:82
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:103
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:81
 msgid "team_name^Nati"
 msgstr ""
 
 #. [side]: type=General, id=Blucyn
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:84
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:111
 msgid "Blucyn"
 msgstr ""
 
 #. [side]: type=General, id=Blucyn
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:106
+#. [side]
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:122
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:162
 msgid "team_name^Wesnothians"
 msgstr ""
 
-#. [side]: type=Orcish Warrior, id=Gadash
-#. [unit]: id=Gadash, type=Wraith, type=Spectre
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:114
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:427
+#. [side]: type=Orcish Warlord, id=Gadash
+#. [unit]: id=Gadash, type=Spectre, type=Wraith
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:130
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:635
 msgid "Gadash"
 msgstr ""
 
-#. [side]: type=Orcish Warrior, id=Gadash
+#. [side]: type=Orcish Warlord, id=Gadash
 #. [side]: type=Orcish Warlord, id=Karz Gholum
 #. [side]: type=Orcish Warlord, id=Nakur Kimoni
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:137
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:135
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:186
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:141
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:134
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:185
 msgid "team_name^Orcs"
 msgstr ""
 
 #. [message]: speaker=Blucyn
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:163
-msgid "Behold the encampment to the north! Orcs gather there. No doubt they mean to seize Erzen for themselves."
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:186
+msgid "Look north! A huge army of orcs is moving here. It looks like they are planning to attack the fortress."
 msgstr ""
 
 #. [message]: speaker=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:175
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:198
 msgid "<i>Brother, are the preparations complete?</i>"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:179
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:202
 msgid "<i>You need not remind me. Everything proceeds according to our design.</i>"
 msgstr ""
 
 #. [message]: speaker=Blucyn
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:183
-msgid "The fate of this fortress lies in our hands. To arms!"
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:206
+msgid "The fate of Wesnoth lies in our hands. To arms!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:196
-msgid "At last, the ritual is complete. Now we may transcend the boundaries of life and death... all shall bend to our will."
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:294
+msgid "At last, the time to perform the ritual has finally come. Now we may transcend the boundaries of life and death... all shall bend to our will."
+msgstr ""
+
+#. [message]: type=Skeleton
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:386
+msgid "Ugh... ugh... I was... once dead..."
+msgstr ""
+
+#. [message]: type=Ghost
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:391
+msgid "Souls... I need... more souls..."
+msgstr ""
+
+#. [message]: speaker=Nati Ha'atel
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:397
+msgid "Flesh, bone, soul, and death. All of these we command..."
+msgstr ""
+
+#. [message]: speaker=Gwiti Ha'atel
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:405
+msgid "... and resurrect to life."
 msgstr ""
 
 #. [message]: speaker=Blucyn
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:251
-msgid "These... these are the undead? You have violated the most sacred of taboos. This evil surpasses even that of the orcs."
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:413
+msgid "What?! <i>You!</i> You have violated the most sacred of taboos. This evil surpasses even that of the orcs!"
 msgstr ""
 
 #. [message]: speaker=Blucyn
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:256
-msgid "I shall return with reinforcements. We will purge not only the orcs, but your foul presence as well."
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:418
+msgid "Call for reinforcements! We must purge not only the orcs, but all of them as well."
 msgstr ""
 
-#. [message]: speaker=Blucyn
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:298
+#. [objective]: condition=win
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:436
+msgid "Defeat Blucyn"
+msgstr ""
+
+#. [unit]: id=Gweodoc, type=Paladin
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:499
+msgid "Gweodoc"
+msgstr ""
+
+#. [message]: speaker=Gweodoc
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:520
+msgid "Damn! We were too late to save him. But in the end, he left us enough time to destroy the undead."
+msgstr ""
+
+#. [message]: type=Paladin
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:527
 msgid "Prepare to meet your doom, necromancers!"
 msgstr ""
 
 #. [message]: speaker=Gadash
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:316
-msgid "Look how these humans turn upon themselves. Now is our moment to strike!"
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:532
+msgid "Look how these humans turn on themselves. Now it will be even easier for us to crush them!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:324
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:541
 msgid "Brother, what course shall we take?"
 msgstr ""
 
 #. [message]: speaker=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:328
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:545
 msgid "This land has grown too small for my ambitions. Too many vermin stand in my path. I shall depart... but your journey ends here."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:352
-msgid "Foolish brother! Know that you are not the only one destined to endure!"
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:569
+msgid "Foolish brother! Know that you are not the only one destined to survive!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:367
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:579
 msgid "Move Gwiti to the escape route"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:393
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:600
 msgid "I cannot fall here! Soon I shall return with an army at my back, and you shall all be destroyed!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:408
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:616
 msgid "Argh! Our lord shall have vengeance upon you all!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:421
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:629
 msgid "Rise from the depths of death!"
 msgstr ""
 
 #. [message]: speaker=Gadash
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:446
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:654
 msgid "I... shall obey... master..."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:451
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:658
 msgid "Scout the enemy positions and create diversions. Now go!"
 msgstr ""
 
-#. [message]: speaker=Blucyn
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:484
-msgid "Rally the reinforcements! We must not let them escape!"
+#. [message]: speaker=Gweodoc
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:694
+msgid "After them! We must not let them escape!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:510
+#: The_Shadow_Returns/episode1/scenarios/01_Double_Betrayal.cfg:719
 msgid "You should never have let me fall. Without me, you are nothing."
 msgstr ""
 
@@ -436,210 +421,210 @@ msgid "A New Chance"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:19
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:877
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:26
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:876
 msgid "Defeat both enemy leaders"
 msgstr ""
 
 #. [side]: type=Naga Warrior, id=Xabrak
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:63
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:69
 msgid "Xabrak"
 msgstr ""
 
 #. [side]: type=Naga Warrior, id=Xabrak
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:74
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:80
 msgid "team_name^Xabrak"
 msgstr ""
 
 #. [side]: type=Ogre, id=Grakarat
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:85
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:91
 msgid "Grakarat"
 msgstr ""
 
 #. [side]: type=Ogre, id=Grakarat
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:97
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:103
 msgid "team_name^Grakarat"
 msgstr ""
 
 #. [unit]: type=Ogre, id=Rek Iceheart
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:104
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:110
 msgid "Rek Iceheart"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:148
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:156
 msgid "A sudden tempest seized the vessel bearing Gwiti and Nati."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:153
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:161
 msgid "The ship splintered apart."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:161
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:166
 msgid "Yet the brothers’ tale was not to end there."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:200
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:205
 msgid "Do I... still draw breath?"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:215
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:220
 msgid "I have washed ashore, it seems... but Nati is nowhere to be found."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:247
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:250
 msgid "My shackles lie broken. Perhaps the dark gods have not wholly forsaken me."
 msgstr ""
 
 #. [message]: speaker=narrator
 #. [unit]: id=Arkal-Thil, type=Dark Adept
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:252
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:271
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:255
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:267
 msgid "Arkal-Thil"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:253
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:256
 msgid "I sense the shadow of darkness within you..."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:266
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:262
 msgid "Who addresses me?"
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:290
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:285
 msgid "I am a sorcerer, Arkal-Thil by name."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:294
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:289
 msgid "You are a necromancer, like myself... are you not?"
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:298
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:293
 msgid "Indeed. Will you be our salvation? These grounds once served as sanctuary for our cult. But savage beasts descended upon us, devouring most of our number. We lacked the strength to repel them."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:302
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:297
 msgid "They await only destruction at my hands. Soon they shall serve me eternally as undying warriors."
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:307
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:302
 msgid "We are grateful, new master. We pledge ourselves to you. Now is the hour of vengeance and bloodshed!"
 msgstr ""
 
 #. [message]: speaker=Xabrak
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:335
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:339
 msgid "Look there! The necromancer assails us with his skeletal legion! But strange... we thought we had destroyed them all."
 msgstr ""
 
 #. [message]: speaker=Grakarat
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:339
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:343
 msgid "How I relish crushing their bones! Let battle be joined!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:373
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:374
 msgid "Who languishes in this cage?"
 msgstr ""
 
 #. [unit]: id=Gabtur, type=Death Squire
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:380
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:381
 msgid "Gabtur"
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:396
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:397
 msgid "One of our brothers! They slew him once already!"
 msgstr ""
 
 #. [message]: speaker=Gabtur
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:401
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:402
 msgid "Danger lurks here... This is the den of the savages who slew me and imprisoned my spirit."
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:406
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:407
 msgid "Gabtur, it is I! We have found a new master. Already most of the beasts lie dead at our feet!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:411
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:412
 msgid "Join my uprising. I shall grant you power beyond measure."
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:428
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:431
 msgid "Gwiti — you must not tarry. Your destiny beckons."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:432
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:435
 msgid "What? Who dares speak to my very thoughts? Reveal yourself!"
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:436
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:439
 msgid "Your brother Nati also treads this land. You must confront him, for only one Ha’atel shall survive this crucible."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:440
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:443
 msgid "Impossible! I shall not be the one to fall!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:457
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:460
 msgid "Death comes for all naga who dare stand in my path!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:467
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:470
 msgid "I am... vanquished..."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:483
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:486
 msgid "Who lurks in the shadows?"
 msgstr ""
 
 #. [message]: speaker=Gadash
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:497
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:500
 msgid "Master... I return to you."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:502
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:504
 msgid "How came you to this place?"
 msgstr ""
 
 #. [message]: speaker=Gadash
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:507
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:509
 msgid "I followed your final command faithfully."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:512
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:513
 msgid "You were scouting far from the battlefield when disaster struck. Is that what you mean to tell me?"
 msgstr ""
 
 #. [message]: speaker=Gadash
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:517
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:518
 msgid "I sensed your dark power upon this shore. The journey to return to your side was long, but now I stand ready to serve once more."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:526
+#: The_Shadow_Returns/episode1/scenarios/02_A_New_Chance.cfg:527
 msgid "The Wesnothians have discovered my escape! All is lost..."
 msgstr ""
 
@@ -649,367 +634,367 @@ msgid "Brother Against Brother"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:32
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:33
 msgid "Defeat your brother Nati Ha’atel"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:106
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:115
 msgid "As the crimson light of dusk painted the horizon, Gwiti discovered his arch-rival and brother, Nati, had already taken position nearby — their long-standing animosity about to reach its inevitable conclusion."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:112
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:121
 msgid "Ah, loathed brother mine. Gaze well upon this setting sun, for it shall be the last you shall witness in these lands."
 msgstr ""
 
 #. [message]: speaker=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:116
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:125
 msgid "These lands? Your ignorance betrays you more thoroughly than your words ever could."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:120
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:129
 msgid "You, who fled like a coward at Erzen, dare speak of ignorance?"
 msgstr ""
 
 #. [message]: speaker=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:124
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:133
 msgid "Cease your hollow boasting. You are but a shadow of what I once deemed a worthy opponent."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:128
-msgid "But the darkness shall prove my strength... You must fall."
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:137
+msgid "I shall prove my power in the darkness... You shall fall."
 msgstr ""
 
 #. [message]: speaker=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:132
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:141
 msgid "I will crush you with all the might that has always set me apart. Flee now, or be annihilated."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:157
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:165
 msgid "Your scalp shall make a fitting trophy."
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:161
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:169
 msgid "Master, will you truly destroy your own brother?"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:166
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:173
 msgid "Blood ties mean nothing when destiny calls. Would you hesitate in my place?"
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:170
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:177
 msgid "... I suppose not, master."
 msgstr ""
 
 #. [message]: speaker=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:178
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:185
 msgid "Your doom draws near!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:189
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:196
 msgid "His forces are but a disorganized rabble, barely worth our concern. Our victory is inevitable."
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:193
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:200
 msgid "As you command, let us see it through."
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:198
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:205
 msgid "Face your brother, necromancer. Your true power lies not in blood, but in the darkness you command."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:201
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:208
 msgid "You again... Who are you, that speaks from the shadows?"
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:203
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:210
 msgid "One who knows the path of true power. Prove yourself worthy."
 msgstr ""
 
 #. [message]: speaker=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:210
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:218
 msgid "Witness your final moments, you miserable wretch. Know that it is only by my mercy you still bask in the light of the sun. Before it sets, you shall meet your end."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:214
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:222
 msgid "Let me remind you that even now, my undead legions march forth, eager to embrace you in death. Your fate is sealed."
 msgstr ""
 
 #. [message]: speaker=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:225
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:233
 msgid "My foolish brother... Our destiny was written the moment we drew breath. You merely prolong the inevitable."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:229
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:237
 msgid "Is that your final testament? I shall continue my vengeance against Wesnoth. Prepare yourself for what comes after."
 msgstr ""
 
 #. [message]: speaker=Nati Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:233
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:241
 msgid "It is over... I am doomed... I am undone."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:249
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:257
 msgid "Burn to ash, all who stand in my path!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:262
+#: The_Shadow_Returns/episode1/scenarios/03_Brother_Against_Brother.cfg:270
 msgid "Die, and be forgotten!"
 msgstr ""
 
 #. [message]: speaker=narrator
 #. [floating_text]
 #. [scenario]: id=04_The_Skull_of_Morgorath
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:462
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:477
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:461
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:476
 #: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:5
 msgid "The Skull of Morgorath"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:32
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:33
 msgid "Move Gwiti himself on all the monoliths"
 msgstr ""
 
 #. [note]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:46
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:45
 msgid "4 monoliths remaining."
 msgstr ""
 
 #. [note]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:55
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:54
 msgid "3 monoliths remaining."
 msgstr ""
 
 #. [note]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:64
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:63
 msgid "2 monoliths remaining."
 msgstr ""
 
 #. [note]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:73
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:72
 msgid "1 monolith remaining."
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Karz Gholum
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:116
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:115
 msgid "Karz Gholum"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Nakur Kimoni
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:166
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:165
 msgid "Nakur Kimoni"
 msgstr ""
 
 #. [unit]: type=Orcish Warrior, id=Isidal B'Tai
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:204
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:203
 msgid "Isidal B’Tai"
 msgstr ""
 
 #. [side]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:226
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:225
 msgid "team_name^Morgorath"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:250
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:249
 msgid "As Gwiti marched along the rugged mountain path, he felt the tingling presence of strange magic weaving through the air, guiding him onward."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:255
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:254
 msgid "I sense that I am nearing the Skull of Morgorath..."
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:257
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:256
 msgid "Indeed, you are close — but you must perform the ritual to claim your prize. Through your own will and magic, you must awaken the power of the ancient monoliths scattered throughout this land."
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:327
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:326
 msgid "Without my magic, these monoliths remain dormant. Do not squander your time in futile efforts."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:333
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:332
 msgid "I find it curious that you still hide in the shadows. Have you not the courage to reveal yourself?"
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:335
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:334
 msgid "The time for revelations has not yet come. Trust in the path that lies ahead."
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:342
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:341
 msgid "Are we certain this is the right path? Doubt gnaws at me."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:346
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:345
 msgid "I share your concern. Only time will tell if the master of the voice speaks the truth or leads us astray..."
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:353
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:352
 msgid "Doubt is a poison that clouds the mind. Embrace your destiny, for it is intertwined with the very fabric of this land."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:356
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:355
 msgid "I will not succumb to fear. The power I seek is within my grasp!"
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:360
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:359
 msgid "Let us hope that we are worthy of the challenges ahead. Our journey is fraught with peril."
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:362
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:361
 msgid "Remember, it is through trials that strength is forged. Prepare yourselves; the monoliths await your call."
 msgstr ""
 
 #. [message]: speaker=narrator
 #. [floating_text]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:375
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:390
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:374
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:389
 msgid "Memoirs of the Dawn"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:376
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:375
 msgid "<i>In ages past, our realm knew an epoch of unrivaled splendor. We dwelt in eternal radiance, basking in the golden light of prosperity and glory. In our hubris, we believed our dominion over all living things would endure until the end of time itself. Yet fate proved otherwise, for those who watched from above could not abide such pride.</i>"
 msgstr ""
 
 #. [message]: speaker=narrator
 #. [floating_text]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:404
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:419
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:403
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:418
 msgid "Memoirs of the Fall"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:405
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:404
 msgid "<i>The Great War raged across eons, until at last we fell from grace. In that cataclysmic hour, both life and void were rent asunder. My own essence was scattered, my form unmade by divine decree, cast adrift from the realm of being.</i>"
 msgstr ""
 
 #. [message]: speaker=narrator
 #. [floating_text]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:433
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:448
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:432
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:447
 msgid "Leganoth"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:434
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:433
 msgid "<i>Yet a fragment of my will remained, sealed within an emissary who walks the mortal realm. In them I placed a shard of my consciousness, and bestowed the ancient knowledge to draw forth my essence from its celestial prison. Upon this vessel of my purpose, I bestowed the name Leganoth.</i>"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:463
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:462
 msgid "<i>And so I endure in timeless vigil, awaiting the hour when my sundered form shall be made whole once more — when flesh, bone, and spirit shall unite in harmony. Then shall I rise again as Sovereign of Shadow, to claim my rightful dominion. The appointed time draws ever nearer... This truth echoes through the void.</i>"
 msgstr ""
 
 #. [then]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:495
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:494
 msgid "Well done. At last, you have proven yourself to be the chosen one."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:520
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:519
 msgid "The undead are upon us! To arms, brothers!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:524
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:523
 msgid "Orcs? It has been too long since I last faced you in battle at Erzen... Soon, your corpses and souls shall litter this battlefield."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:535
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:534
 msgid "I have fallen to the wicked undead! Avenge me, my kin!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:549
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:548
 msgid "Dispatch a messenger! Inform our lord of our demise..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:559
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:558
 msgid "Argh! I meet my end!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:614
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:613
 msgid "Time drifts by as the air thickens with magic..."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:681
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:680
 msgid "Where in the blazes am I?"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:698
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:697
 msgid "This does not feel like the earth I know... It is as if I am enveloped in pure magic."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:794
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:793
 msgid "These are not elves... they are mere illusions!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:804
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:803
 msgid "<i>Is this what I earn for following your guidance?!</i>"
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:866
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:865
 msgid "You have completed the ritual. Now, you must behold the artifact with your own eyes... Yet, the key to the Skull of Morgorath still eludes you. In other words: the doom of the guardians awaits."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:972
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:971
 msgid "The path to the skull has been revealed!"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:979
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:978
 msgid "Take the Skull of Morgorath"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:1010
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:1009
 msgid "Argh! This... this is only a half, a mere fragment of the true Skull of Morgorath! Enough of this trickery!"
 msgstr ""
 
 #. [event]
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:1013
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:1012
 msgid "You hold what you need. The true power of Morgorath will only be yours when you face the final trials."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:1021
+#: The_Shadow_Returns/episode1/scenarios/04_The_Skull_of_Morgorath.cfg:1020
 msgid "Trials? What do you mean by that? I’ve had enough of your twisted games! I am bound by no one, least of all a voice without a face. I fear nothing, but do not think to approach me again!"
 msgstr ""
 
@@ -1019,111 +1004,111 @@ msgid "Mages and Elves"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:21
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:27
 msgid "Move Gwiti to the Tower of Sorcery"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:26
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:32
 msgid "Defeat all enemy leaders"
 msgstr ""
 
 #. [side]: type=Great Mage, id=Quirind
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:68
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:74
 msgid "Quirind"
 msgstr ""
 
 #. [side]: type=Great Mage, id=Quirind
 #. [side]
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:91
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:61
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:97
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:62
 msgid "team_name^Magi"
 msgstr ""
 
 #. [side]: type=Elvish Marshal, id=Lessalin
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:99
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:105
 msgid "Lessalin"
 msgstr ""
 
 #. [side]: type=Elvish Marshal, id=Lessalin
 #. [side]: type=Elvish Champion, id=Urind
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:122
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:153
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:128
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:159
 msgid "team_name^Elves"
 msgstr ""
 
 #. [side]: type=Elvish Champion, id=Urind
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:130
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:136
 msgid "Urind"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:192
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:198
 msgid "And so, Gwiti set his sights upon the Tower of Kaleon, where the greatest magi of the age had once studied and guarded their arcane secrets."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:197
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:203
 msgid "If my memory serves, that structure in the distance must indeed be the Tower of Kaleon. The ancient spells and knowledge stored within will soon be mine — and with them, my power shall grow vast enough to crush Wesnoth."
 msgstr ""
 
 #. [message]: speaker=Quirind
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:204
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:210
 msgid "A dark sorcerer draws near! Could it truly be the same one we cast out long ago?"
 msgstr ""
 
 #. [message]: speaker=Quirind
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:208
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:214
 msgid "Accursed practitioner of death, know that we, the magi of Kaleon, guardians of this tower, shall defend it to our final breath! Turn back now, or face ruin."
 msgstr ""
 
 #. [message]: speaker=Lessalin
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:213
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:219
 msgid "Fear not, Quirind. By ancient accord, the elves shall stand with you."
 msgstr ""
 
 #. [message]: speaker=Urind
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:217
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:223
 msgid "Vile conjurer, this ground is no place for your kind. Leave, or we shall banish you to the abyss!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:221
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:227
 msgid "Ignorant fools... you are blind to your own doom. All who stand before me shall fall."
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:225
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:231
 msgid "Master, the snow grows heavy. If we delay, we risk being buried alive!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:469
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:475
 msgid "Curse it all! I am undone, and the tower stands unguarded!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:491
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:497
 msgid "Quirind, we have failed... you must keep the tower safe!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:508
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:514
 msgid "Ha! The tower’s secrets are within my grasp at last!"
 msgstr ""
 
 #. [message]: speaker=Lessalin
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:512
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:518
 msgid "A pox upon that wretched sorcerer!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:525
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:531
 msgid "The path is clear! Press onward!"
 msgstr ""
 
 #. [message]: speaker=Quirind
-#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:546
+#: The_Shadow_Returns/episode1/scenarios/05_Mages_and_Elves.cfg:552
 msgid "Ha! The tower’s wards have awakened — you cannot pass without knowledge to rival ours!"
 msgstr ""
 
@@ -1133,157 +1118,157 @@ msgid "Inside the Tower"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:21
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:22
 msgid "Find the Book of Crelanu"
 msgstr ""
 
 #. [unit]: type=Elder Mage, id=Krimitros
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:79
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:80
 msgid "Krimitros"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:159
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:160
 msgid "If I’m right, the Tower should consist of three floors. Somewhere within, the tome awaits. This shouldn’t take more than a few hours..."
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:163
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:164
 msgid "It’s so dim in here! And the air... it’s thick with magic."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:167
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:168
 msgid "Does it unnerve you, Arkal-Thil? Let it feed your dread... soon, that power shall belong to us."
 msgstr ""
 
 #. [unit]: type=Revenant, id=Xakan
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:175
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:176
 msgid "Xakan"
 msgstr ""
 
 #. [unit]: type=Revenant, id=Karae
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:187
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:188
 msgid "Karae"
 msgstr ""
 
 #. [unit]: type=Revenant, id=Pezit
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:199
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:200
 msgid "Pezit"
 msgstr ""
 
 #. [unit]: type=Revenant, id=Lagon
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:211
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:212
 msgid "Lagon"
 msgstr ""
 
 #. [message]: speaker=Karae
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:242
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:243
 msgid "Hayaargghh! We stand ready! Command us, master!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:256
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:257
 msgid "The second floor at last! Those magi won’t stay hidden for long."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:269
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:270
 msgid "The third floor... we’re close now. Find the book!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:284
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:285
 msgid "Hmph, looks like the magi had a taste for fish... wonder if they’re fit to eat?"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:298
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:299
 msgid "Not the best flavor, but these creatures seem... nourishing."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:330
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:331
 msgid "A strange creature lurks here — it attacks!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:343
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:344
 msgid "Here! A hidden door... this could be the library."
 msgstr ""
 
 #. [message]: speaker=Krimitros
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:355
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:356
 msgid "You shall not defile this sacred place, necromancer! The book is beyond you."
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:359
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:360
 msgid "Ah, what fortune! Thirty-five pieces of gold stashed in this chest!"
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:360
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:361
 msgid "Bah, nothing but dust! The chest is empty."
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:361
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:362
 msgid "Twenty pieces of gold — well, a modest yet welcome find."
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:362
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:363
 msgid "Thirty copper coins... Hardly a treasure, but not entirely worthless."
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:363
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:364
 msgid "The chest holds only a few faded trinkets... Its magic is long gone."
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:364
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:365
 msgid "Ugh! Holy water — tainted by light!"
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:365
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:366
 msgid "Now, this is a sight! What treasures the magi guarded!"
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:366
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:367
 msgid "Ha! Seems the magi concealed more than they let on."
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:367
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:368
 msgid "Two dozen gold coins... Ransacking this tower has its perks!"
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:368
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:369
 msgid "A pile of mixed coins! Riches abound here."
 msgstr ""
 
 #. [scenario]: id=06_Inside_the_Tower
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:369
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:370
 msgid "Ah, splendid! This chest is brimming with gold!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:386
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:387
 msgid "No... the book must never fall to the likes of you!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:397
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:398
 msgid "Hmm, this isn’t Crelanu’s tome... but it holds a clue to its location."
 msgstr ""
 
 #. [message]: speaker=Xakan
-#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:401
+#: The_Shadow_Returns/episode1/scenarios/06_Inside_the_Tower.cfg:402
 msgid "Our task is done here, master! Onward, to crush any who stand against us!"
 msgstr ""
 
@@ -1293,109 +1278,109 @@ msgid "The Book of Crelanu"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:18
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:253
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:19
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:252
 msgid "Take the Book of Crelanu"
 msgstr ""
 
 #. [side]
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:64
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:65
 msgid "team_name^Guardians"
 msgstr ""
 
 #. [side]
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:76
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:77
 msgid "team_name^Monsters"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:105
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:106
 msgid "Following ancient signs, Gwiti and Arkal-Thil arrive at a cramped, shadowed cave passage. Even their dark vision is limited by the oppressive gloom surrounding them."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:114
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:115
 msgid "So, we’re finally here... the resting place of Crelanu’s tome, hidden beyond these darkness."
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:118
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:119
 msgid "It feels different, master — colder, and something... alive? This place seems to push back against us."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:122
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:123
 msgid "The book is well hidden, indeed. But that only proves its worth. We will claim it, and this place will tremble at our presence."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:141
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:140
 msgid "<i>At the far end of the cave, a massive stone wall marked with ancient runes blocks the way forward. The runes pulse faintly, their magical seals still strong after centuries.</i>"
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:146
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:145
 msgid "Master, these runes seem to hold a protective spell. We may need to break it piece by piece."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:150
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:149
 msgid "Then we must locate the guardians — no doubt they will appear the moment we set foot on these sigils."
 msgstr ""
 
 #. [unit]: id=Nagou
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:163
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:162
 msgid "Nagou"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:170
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:352
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:169
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:351
 msgid "Defeat all enemy units"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:204
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:203
 msgid "You shall not... enter the sacred sanctum..."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:208
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:207
 msgid "How amusing. Even in death, they cling to hollow oaths. Arkal-Thil, another seal falls."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:241
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:240
 msgid "<i>With the last guardian vanquished, the runes on the wall fade. The barrier crumbles, revealing a hidden chamber beyond — at its center, surrounded by shallow pools, rests the Book of Crelanu upon a pedestal.</i>"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:285
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:284
 msgid "<i>As Gwiti seizes the tome, tremors shake the cave, and shadows creep from the depths. Feral creatures, bound to the tome’s defense, slink from the pools and shadows.</i>"
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:311
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:310
 msgid "Master, the guardians of the cave awaken!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:315
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:314
 msgid "They are no more than shadows bound by ancient spells. We’ll crush them as we did the keepers."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:387
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:386
 msgid "With the final guardian defeated, a deathly silence settles once more. The tome, now Gwiti’s, pulses with dark power."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:392
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:391
 msgid "With Crelanu’s knowledge, Wesnoth will witness my wrath. Let us leave this forsaken cave, Arkal-Thil."
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
-#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:396
+#: The_Shadow_Returns/episode1/scenarios/07_The_Book_of_Crelanu.cfg:395
 msgid "Yes, master. May all who defy you be swallowed by the shadows we leave behind."
 msgstr ""
 
@@ -1426,12 +1411,12 @@ msgstr ""
 
 #. [part]
 #: The_Shadow_Returns/episode1/storytxt.cfg:30
-msgid "Yet the massive orcish reinforcements that arrived later utterly decimated the Wesnothian forces. The battlefield of Erzen ran red with blood."
+msgid "But the hopes of humans and necromancers did not come true: the massive orcish reinforcements that arrived later utterly decimated the Wesnothian forces and the remaining undead. The battlefield at the Stone of Erzen turned red with blood and white with bones."
 msgstr ""
 
 #. [part]
 #: The_Shadow_Returns/episode1/storytxt.cfg:33
-msgid "Consumed by fury, Blucyn hunted Gwiti and Nati with murderous intent. Without their dark interference, he believed, there would have been no chaos, no defeat on that fateful field. At last, the brothers were captured."
+msgid "Consumed by fury, the survivors hunted Gwiti and Nati to bring them to justice. Without the evil interference of the undead, they believed, there would have been no chaos, no defeat no unnecessary deaths. At last, the necromancers were captured."
 msgstr ""
 
 #. [part]
@@ -1441,7 +1426,7 @@ msgstr ""
 
 #. [part]
 #: The_Shadow_Returns/episode1/storytxt.cfg:40
-msgid "<i>...but fate had other designs.</i>"
+msgid "<i>... but fate had other designs.</i>"
 msgstr ""
 
 #. [part]
@@ -1569,6 +1554,51 @@ msgstr ""
 msgid "Young Ha’atel’s essence is so deeply intertwined with death magic that he has forsaken even the most basic forms of combat. Instead, he nurtures the dark powers that bloom within his very being. What truly instills terror is his unwavering devotion to the pursuit of power — a hunger that knows no bounds."
 msgstr ""
 
+#. [objective]: condition=lose
+#: The_Shadow_Returns/utils/deaths.cfg:6
+msgid "Death of Gwiti Ha’atel"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Shadow_Returns/utils/deaths.cfg:16
+msgid "Destruction of Gwiti Ha’atel"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Shadow_Returns/utils/deaths.cfg:26
+msgid "Death of Arkal-Thil"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Shadow_Returns/utils/deaths.cfg:36
+msgid "Destruction of Arkal-Thil"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Shadow_Returns/utils/deaths.cfg:46
+msgid "Death of Tanar"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Shadow_Returns/utils/deaths.cfg:64
+msgid "What? This cannot be my end! Noooo!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Shadow_Returns/utils/deaths.cfg:78
+msgid "No! No! Noooo! The end comes... I feel the shadows reaching for my soul..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Shadow_Returns/utils/deaths.cfg:91
+msgid "I feel the darkness pulling me closer..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Shadow_Returns/utils/deaths.cfg:104
+msgid "You swore you would protect me!"
+msgstr ""
+
 #. [then]
 #. [else]
 #: The_Shadow_Returns/utils/items.cfg:85
@@ -1650,11 +1680,6 @@ msgstr ""
 #. [object]: id=darkalarmor_$x1|_$y1
 #: The_Shadow_Returns/utils/items.cfg:313
 msgid "This armor will bolster the unit’s resilience and guard it against magical assaults."
-msgstr ""
-
-#. [note]
-#: The_Shadow_Returns/utils/objective-utils.cfg:5
-msgid "<b>The schedule is 12 turns.</b>"
 msgstr ""
 
 #. [message]: speaker=narrator
