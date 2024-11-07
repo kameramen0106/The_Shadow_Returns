@@ -15,7 +15,7 @@ At last, Gwiti’s evil forces launch their assault against Wesnoth. As the mort
 
 **(Expert level, only first episode with 7 scenarios of 9 completed.)**
 
-This is my beta release of the revised version of The Dark Hordes.
+This is my beta release of the revised version of The Dark Hordes. TDH is the oldest UMC for Wesnoth and was once the mainline campaign; it has long been abandoned as unfinished.
 Wesnoth 1.18.0 or later required.
 
 Discussion thread in the Wesnoth.org forums: <https://r.wesnoth.org/t58803>
