@@ -13,7 +13,7 @@ This is the story of an age when the glory of Wesnoth had become but a memory of
 
 At last, Gwiti’s evil forces launch their assault against Wesnoth. As the mortals under his command plunge the kingdom and its people into darkness, they turn to their final hope: the elven enchantress Elynia. Thus begins the ultimate confrontation between light and darkness.
 
-**(Expert level, 9 scenarios of 18 completed.)**
+**(Intermediate level, 9 scenarios of 18 completed.)**
 
 This is my beta release of the revised version of The Dark Hordes. TDH is the oldest UMC for Wesnoth and was once the mainline campaign; it has long been abandoned as unfinished.
 
