@@ -5,12 +5,13 @@ Included content that is not listed below is provided under the terms of the GNU
 
 A copy of the GNU General Public License is provided in COPYING.
 
+
 After the Storm Art (CC BY-NC-ND 4.0)
 -------------------------------------
 
 Copyright (C) 2006 - 2024 by Iris Morelle <shadowm@wesnoth.org>
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-nd/4.0> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-nd/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
  * images/units/elynia/elynia-attack-melee-1.png
  * images/units/elynia/elynia-attack-melee-2.png
@@ -24,11 +25,13 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-NoDer
  * images/units/elynia/elynia-defense.png
  * images/units/elynia/elynia.png
 
+
 Non-Copyrighted Assets (CC0)
 ----------------------------
 
-To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work: <https://creativecommons.org/publicdomain/zero/1.0>
+To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work. <https://creativecommons.org/publicdomain/zero/1.0/>
 
+ * sounds/weather-snow.ogg
  * images/story/erzen.webp
  * images/story/shore.webp
  * images/terrain/snow/SnowSlowR_0.png

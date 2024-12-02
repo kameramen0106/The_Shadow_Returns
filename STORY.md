@@ -20,6 +20,7 @@ For more information about the future history see **[here][1]**.
 
 [1]: <https://wiki.wesnoth.org/Future_History>
 
+
 Brief Overview
 --------------
 
@@ -107,8 +108,10 @@ These should and probably can be compatible with the Project-Ethea settings. How
 
 Also, as note, I am *not* entirely unquestioning of this plot by shadowm; I think the appearance of Lord Aretu is unnecessary when Elynia and Gwiti fight again. Also, Arkal-Thil, the character from future history, is treated as the disciple of Gwiti (who eventually betrays him and takes the Book of Crelanu from him), which was an idea by me and Roge.
 
+
 Character Settings
 ------------------
+
 
 Gwiti Ha'atel
 -------------
@@ -118,6 +121,7 @@ As with the characterization of The Dark Hordes, he is an evil necromancer. Unli
 Gwiti pursues two artifacts, the Skull of Morgorath and the Book of Crelanu, for his own revenge and to increase his power, the former ultimately calling for his own destruction (or the new rebirth at the last minute).
 
 As for Elynia, Gwiti is somewhat sympathetic and condescending attitude, and is also unknowingly wary of the unknowable power that lies within her.
+
 
 Morgorath/Leganoth
 ------------------
@@ -133,6 +137,7 @@ When the three merged again, the consciousness of Morgorath should be fully rest
 He then contacted Gwiti, who deceived him in the natural way.
 
 Leganoth led Gwiti to test him, using monoliths as touchstones to him; Gwiti succeeded in them and recovered the one half of the skull, so Leganoth considered him passable. His only miscalculation was that Gwiti did not listen to him until the end and adopted hostile attitude. His plans were therefore behind schedule and Gwiti headed off in search of the Book of Crelanu.
+
 
 **The detailed structure of the scenario is currently being written, but it has been decided that it will be as follows:**
 
